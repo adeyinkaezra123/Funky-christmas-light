@@ -6,4 +6,4 @@ a circle is brightened it's predecessor returns to its normal intensity.
 
 This simulates the effect of a string of rippling lights, similar to the ones
 displayed during the Christmas Holidays.
-Wishing you a Merry Christmas Everyone and A prosperous new #Year
+Wishing you a *Merry Christmas and* A prosperous new **Year**!!
