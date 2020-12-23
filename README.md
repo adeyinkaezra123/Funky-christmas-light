@@ -1,6 +1,6 @@
 # Funky-christmas-light
 The ChristmasLights application is a fun project to create
-a mesmerizing light display. This simple app contains seven colored circles
+a mesmerizing animated light display. This simple app contains seven colored circles
 in a row and based on a timer change the intensity of each circle. When
 a circle is brightened it's predecessor returns to its normal intensity.
 
